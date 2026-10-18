@@ -1,0 +1,83 @@
+# Docs
+
+- [Untitled Book](/docs): A practical money book and companion workbook built from your voice notes.
+- Raw thoughts
+  - [Raw thoughts](/docs/raw-thoughts): Original voice notes and written source material for the book.
+  - [Note 1](/docs/raw-thoughts/note-1): Working transcript of the first recording.
+  - [Note 2](/docs/raw-thoughts/note-2): Working transcript of the second recording.
+  - [Note 3](/docs/raw-thoughts/note-3): Working transcript of the third recording.
+  - [Note 4](/docs/raw-thoughts/note-4): Reverse-engineering a desired life and choosing an income route.
+  - [Note 5](/docs/raw-thoughts/note-5): Finding a source of income while considering study and caregiving.
+  - [Note 6](/docs/raw-thoughts/note-6): A continuation on finding work and widening a job search.
+  - [Note 7](/docs/raw-thoughts/note-7): Credit cards, borrowing costs, credit scores and payment records.
+  - [Note 8](/docs/raw-thoughts/note-8): A tentative idea for reader questions by email and an AI response service.
+  - [Note 9](/docs/raw-thoughts/note-9): Planning a payday across saving, bills, debt and spending.
+  - [General plan](/docs/raw-thoughts/general-plan): The author's written plan, kept as source material for the evolving book.
+  - [Plan decisions](/docs/raw-thoughts/plan-decisions): The author's follow-up decisions about dollars, debt, income groups, and chapter structure.
+- [Book brief](/docs/book-brief): A practical money book with an optional companion workbook.
+- [Book plan](/docs/outline): Twelve chapters built around the reader's situation and the life they want.
+- [Reader paths](/docs/reader-paths): Four starting situations, with income-source labels and debt details underneath.
+- Chapters
+  - [Chapters](/docs/chapters): Twelve chapters readers can enter where they need help.
+  - [Before we start](/docs/chapters/before-we-start): Draft opening based on the author's first two voice notes.
+  - [How to use this book](/docs/chapters/how-to-use-this-book): Use the book for guidance and the companion workbook or plain paper for your answers.
+  - [1. Start where you are](/docs/chapters/start-where-you-are): Put what you have, what comes in, and what you owe on paper so you can make a plan.
+  - [2. The life you want](/docs/chapters/the-life-you-want): Describe the life you want, put a cost on it, and see the gap from where you are now.
+  - [3. Find and grow your income](/docs/chapters/grow-your-income): Find a source for now, compare your options, and choose one next step.
+  - [4. When you get paid](/docs/chapters/when-you-get-paid): Plan the bills, saving, giving, and spending before the money arrives.
+  - [5. Make a plan for debt](/docs/chapters/make-a-plan-for-debt): Know the terms, protect what matters now, and choose the next repayment step.
+  - [6. Credit cards 101](/docs/chapters/credit-cards): Read the bill, understand the cost, and choose a payment you can fund.
+  - [7. Credit scores 101](/docs/chapters/credit-scores): Understand the record behind a score and choose one useful action.
+  - [8. Before you buy](/docs/chapters/before-you-buy): Check what a purchase adds to your life, its full cost, and the money it leaves behind.
+  - [9. When life changes](/docs/chapters/when-life-changes): Adjust the plan when income, costs, or family needs change.
+  - [10. The promise of fast money](/docs/chapters/fast-money): Examine a promise of quick wealth before acting on it.
+  - [11. Before you invest](/docs/chapters/before-you-invest): Work out what the money is for and what risk you can take.
+  - [12. Ways to invest](/docs/chapters/ways-to-invest): Understand the main investment choices and compare them.
+  - [Chapter template](/docs/chapters/chapter-template): A structure for practical workbook sections in the author's voice.
+- Spoken scripts
+  - [Spoken scripts](/docs/scripts): Spoken adaptations of the book drafts, with the same examples and source notes.
+  - [Chapter 2: The life you want](/docs/scripts/the-life-you-want): A first spoken adaptation of the lifestyle exercise and Michelle's example.
+  - [3. Find and grow your income — spoken script](/docs/scripts/grow-your-income): A spoken draft about getting income now and choosing a route for later.
+  - [4. When you get paid — spoken script](/docs/scripts/when-you-get-paid): A spoken draft about planning bills, saving, giving, and a shortfall.
+  - [5. Make a plan for debt — spoken script](/docs/scripts/make-a-plan-for-debt): A spoken adaptation of Chapter 5 about the next payment and the next action.
+  - [6. Credit cards 101 — spoken script](/docs/scripts/credit-cards): A spoken adaptation of the card statement and payment exercise.
+  - [7. Credit scores 101 — spoken script](/docs/scripts/credit-scores): A spoken guide to the record behind the number.
+  - [8. Before you buy — spoken script](/docs/scripts/before-you-buy): A spoken draft about wanted purchases, money still to come, and payments that stack up.
+- Companion workbook
+  - [Companion workbook](/docs/workbook): A place to write your answers as you work through the book.
+  - [1. What I have now](/docs/workbook/what-i-have): Write the money you have today and keep other things you own on a separate list.
+  - [2. What comes in](/docs/workbook/what-comes-in): Put one month's income and support in one place.
+  - [3. What I owe](/docs/workbook/what-i-owe): List the money you owe and leave unknown details for later.
+  - [4. My money today](/docs/workbook/my-money-today): Put your three totals on one page and choose your starting path.
+  - [5. My chosen life](/docs/workbook/my-chosen-life): Describe an ordinary day in the life you want.
+  - [6. What that life costs](/docs/workbook/what-that-life-costs): List monthly costs and keep one-time goals separate.
+  - [7. My target and next step](/docs/workbook/my-target-and-next-step): Compare your monthly target with current income and choose an action.
+  - [8. My income options](/docs/workbook/my-income-options): Compare feasible ways to get income now or change your work for later.
+  - [9. My next income step](/docs/workbook/my-next-income-step): Choose one action, set limits, and record what you learn.
+  - [10. My next payment plan](/docs/workbook/my-next-payment-plan): Give the money a purpose before choosing what to spend.
+  - [11. My bill calendar](/docs/workbook/my-bill-calendar): Put receipts and payments in date order and check the running balance.
+  - [12. When money falls short](/docs/workbook/when-money-falls-short): Record the gap, payment consequences, contacts, and confirmed changes.
+  - [13. My debt details](/docs/workbook/my-debt-details): Record the amount, terms, dates, and questions for each debt.
+  - [14. My debt plan](/docs/workbook/my-debt-plan): Match payments to available money and record the next action.
+  - [15. My card statement](/docs/workbook/my-card-statement): Copy the balance labels, dates, and terms from one card's records.
+  - [16. My card payment plan](/docs/workbook/my-card-payment-plan): Choose a funded payment and record whether it went through.
+  - [17. My credit check](/docs/workbook/my-credit-check): Identify the report, check its information, and choose a next action.
+  - [18. My purchase check](/docs/workbook/my-purchase-check): Compare a purchase with the money, commitments, and choices you have today.
+- [Print preview](/docs/print-preview): See Chapter 1 and its companion workbook laid out as real book pages.
+- Topic notes
+  - [Topic notes](/docs/topics): Supporting ideas and exercises that feed the numbered chapters.
+  - [The life you want](/docs/topics/dream-lifestyle): A draft exercise to work out what the reader's chosen life costs.
+  - [Growing your income](/docs/topics/income): Put income growth in the context of the reader's starting point and goals.
+  - [When you get paid](/docs/topics/getting-paid): Plan the steps for deciding where a pay cheque goes.
+  - [Debt 101](/docs/topics/debt): Plan the guide to understanding, managing, and getting out of debt.
+  - [Credit cards 101](/docs/topics/credit-cards): Explain interest, minimum payments, and the tradeoffs of using a card.
+  - [Credit scores 101](/docs/topics/credit-scores): Explain what a credit score is and when it matters.
+  - [Buying something expensive](/docs/topics/big-purchases): Build a process for deciding whether a purchase fits.
+  - [Buy now, pay later](/docs/topics/bnpl): Research and explain the decision to use a BNPL app.
+  - [Budgeting apps](/docs/topics/budgeting-apps): Examine the author's view that an app alone does not solve the problem.
+  - [Your mindset about money](/docs/topics/money-mindset): Ground money choices in the reader's own priorities.
+  - [Get-rich-quick schemes](/docs/topics/get-rich-quick): Develop the chapter on financial shortcuts and the promises behind them.
+  - [Investing 101](/docs/topics/investing): Plan the introduction to stocks, real estate, crypto, and businesses.
+- [Writing guide](/docs/writing-style): The author's speaking voice, drawn from Notes 1–9, adapted for the book and scripts.
+- [Research notes](/docs/research): Decisions made, sources checked, and factual work still needed for the chapters.
+- [Adding new thoughts](/docs/writing-plan): The recording workflow and a source-linked plan for developing the next chapters and scripts.
